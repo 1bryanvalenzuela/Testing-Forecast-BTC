@@ -7,4 +7,4 @@ Según los datos historicos del BTC, y los estudios realizados, se concluye que 
 
 ## Imagen
 
-![Grafico : Predicción del BTC]([https://github.com/1bryanvalenzuela/Testing-Forecast-BTC/blob/main/btc_forecast.png])
+![Grafico : Predicción del BTC](https://github.com/1bryanvalenzuela/Testing-Forecast-BTC/blob/main/btc_forecast.png)
